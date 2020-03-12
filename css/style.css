@@ -256,7 +256,7 @@ footer .wrapper {
     text-align: center;
     width: 47%;
     margin: 0 auto; } }
-@media (min-width: 900px) {
+@media (min-width: 950px) {
   .contact-media {
     display: flex; }
     .contact-media .envelope:after,
